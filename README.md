@@ -12,7 +12,7 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 ### The .exe File
 
-1. Run the .exe as admin. Ignore the antivirus or the program wont work.
+1. Run the .exe as admin. Ignore the antivirus or the program won't work. (It has the same code as xpgrindgobrrr.py)
 
 2. Make sure you are in the game window.
 
