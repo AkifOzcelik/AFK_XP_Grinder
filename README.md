@@ -10,9 +10,11 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 ## How to Use
 
-1. Run the script, make sure you are in the game window.
+1. Run the script, then make sure you are in the game window.
 
-2. And you are done!
+2. Also you can use the .exe file, which has the same code as the grindxpgobrrr.py
+
+3.  And you are done!
 
 ## AFK Information
 
