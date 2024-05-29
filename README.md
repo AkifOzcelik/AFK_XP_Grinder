@@ -16,7 +16,7 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 ## AFK Information
 
-![tweet-1794067079651348594](https://github.com/AkifOzcelik/fortnite_afk_xp_grind/assets/74510324/cc497bdf-40d9-449f-9ec5-e179930742f5)
+![tweet](https://github.com/AkifOzcelik/fortnite_afk_xp_grind/assets/74510324/095f6c77-056e-4c57-b0dc-ed9d08016556)
 [Original Tweet](https://x.com/ItsADAMO_/status/1794067079651348594)
 
 ## Meta
