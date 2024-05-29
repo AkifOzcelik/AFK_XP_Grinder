@@ -10,9 +10,19 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 ## How to Use
 
-1. Run the script, then make sure you are in the game window.
+### The .exe File
 
-2. Also you can use the .exe file, which has the same code as the grindxpgobrrr.py
+1. Run the .exe as admin. Ignore the antivirus or the program wont work.
+
+2. Make sure you are in the game window.
+
+3. And you are done!
+
+### The .py File
+
+1. You can run the script in any IDE that supports Python. (Notepad++, VSC, PyCharm etc.)
+
+2. Make sure you are in the game window.
 
 3.  And you are done!
 
