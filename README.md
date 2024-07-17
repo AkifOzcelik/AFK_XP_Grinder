@@ -48,7 +48,7 @@ At first I've coded this script for only Fortnite. But then I decided to make it
 
 ### v2
 * v2.0
-    Work in presress
+    Work in progress
 
 ## Roadmap
 
