@@ -2,7 +2,7 @@ import keyboard
 import time
 import random
 
-keys = ['w', 'a', 's', 'd', 'p', 'space'] # creates a list for keys (p is for left click)
+keys = ['w', 'a', 's', 'd'] # creates a list for keys 
 
 exit_key = 'j'
 
