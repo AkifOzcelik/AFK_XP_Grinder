@@ -30,14 +30,6 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 4.  And you are done!
 
-## AFK Information
-
-At first I've coded this script for only Fortnite. But then I decided to make it universal for every game.
-
-![tweet](https://github.com/AkifOzcelik/fortnite_afk_xp_grind/assets/74510324/095f6c77-056e-4c57-b0dc-ed9d08016556)
-
-[Original Tweet](https://x.com/ItsADAMO_/status/1794067079651348594)
-
 ## Release History
 
 ### v1
@@ -54,7 +46,6 @@ At first I've coded this script for only Fortnite. But then I decided to make it
 
 - [ ] Let the user select which keys the script should use
 - [ ] Let the user select the game window
-- [ ] It goes to menu after a key combination. Make sure it doesn't stop the autoplay (For Warzone)
 
 ## Risks
 
