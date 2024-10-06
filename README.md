@@ -30,7 +30,7 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 4.  And you are done!
 
-## Release History
+## Release History & Bug Fixes
 
 ### v1
 * v1.0
