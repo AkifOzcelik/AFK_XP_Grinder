@@ -20,8 +20,7 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 1. You can run the script in any IDE that supports Python (Notepad++, VSC, PyCharm, etc.).
 2. Make sure you have the `keyboard` library installed. If not, open CMD and type: `pip install keyboard`
-4. Ensure you are in the game window.
-5. You are ready to go!
+3. Run the code and you are ready to go!
 
 ## New Features in v2
 
