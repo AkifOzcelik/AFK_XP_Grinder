@@ -11,7 +11,7 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 ### The .exe File
 
-1. Run the .exe as admin. Ignore any warnings from your antivirus, or the program may not work. (It has the same code as `xpgrindgobrrr.py`.)
+1. Run the .exe as admin. Ignore any warnings from your antivirus (if anything comes up), or the program may not work. (It has the same code as `v2.py`.)
 2. Make sure you are in the game window.
 3. To stop the script, long-press the `J` key.
 4. And you are done!
@@ -19,10 +19,9 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 ### The .py File
 
 1. You can run the script in any IDE that supports Python (Notepad++, VSC, PyCharm, etc.).
-2. Make sure you have the `keyboard` library installed. If not, open CMD and type:
-   pip install keyboard
-3. Ensure you are in the game window.
-4. You are ready to go!
+2. Make sure you have the `keyboard` library installed. If not, open CMD and type: `pip install keyboard`
+4. Ensure you are in the game window.
+5. You are ready to go!
 
 ## New Features in v2
 
