@@ -53,7 +53,7 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 
 - [x] Implement customizable key selection and delays. (v2.0)
 - [x] Customizable window selection. (v2.0)
-- [ ] Implement customizable key selection and delays. (v3.0)
+- [x] Implement customizable key selection and delays. (v2.0)
 - [ ] Log actions taken by the script for troubleshooting. (v3.0)
 - [ ] Multiple window selection. (v3.0)
 - [ ] Status updates about the code (v3.0)
