@@ -12,9 +12,8 @@ This code will keep pressing random keys on your keyboard to prevent you from ge
 ### The .exe File
 
 1. Run the .exe as admin. Ignore any warnings from your antivirus (if anything comes up), or the program may not work. (It has the same code as `v2.py`.)
-2. Make sure you are in the game window.
-3. To stop the script, long-press the `J` key.
-4. And you are done!
+2. To stop the script, press the `J` key.
+3. And you are done!
 
 ### The .py File
 
